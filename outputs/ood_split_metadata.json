@@ -1,0 +1,21 @@
+{
+  "OOD-Geometry": {
+    "proxy": "D/t",
+    "q": 0.15,
+    "lo": 66.66666666666667,
+    "hi": 250.0,
+    "test_frac": 0.3333333333333333
+  },
+  "OOD-Perforation": {
+    "col": "Lsl",
+    "held_out_value": 60.0,
+    "count": 216,
+    "test_frac": 0.5
+  },
+  "OOD-Material": {
+    "col": "Fy",
+    "held_out_value": 300.0,
+    "count": 144,
+    "test_frac": 0.3333333333333333
+  }
+}
